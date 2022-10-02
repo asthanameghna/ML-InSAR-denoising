@@ -19,7 +19,7 @@ Common arguments are:
 
 <img width="1001" alt="Screenshot 2022-10-02 at 20 13 38" src="https://user-images.githubusercontent.com/34877328/193472007-716cc409-b3e8-42c1-9417-7d6d2722e7fe.png">
 
-## Dictionary Learning
+## Dictionary Learning (scikit-learn)
 
 Dictionary learning is a sparse encoding schema. Where encoding schema is lossless from an analytical implementation perspective. And it is guaranteed global optimum encoding from a numerical implementation perspective because the analytical re-formulation is a convex optimization problem.
 
