@@ -1,6 +1,6 @@
 # ML-InSAR-denoising
 
-A demonstration of multiple Machine Learning methods to remove Tropospheric Signals from InSAR data. The work has been developed for the NASA SpaceApps Hackathon 2022 - InSAR Change Detectives!
+A demonstration of multiple Machine Learning methods to remove Tropospheric Signals from InSAR data. The work has been developed for the NASA SpaceApps Hackathon 2022 - InSAR Change Detectives! https://2022.spaceappschallenge.org/challenges/2022-challenges/insar-change-detectives/details
 
 ## Fast NL Means Algorithm (OpenCV)
 
